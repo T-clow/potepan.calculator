@@ -1,0 +1,48 @@
+#result{
+  box-sizing: border-box;
+  width: 460px;
+  height: 50px;
+  font-size: 40px;
+  color: white;
+  background-color: black;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.button_s {
+    font-size: 30px;
+    padding: 3px 45px;
+    margin-bottom: 5px;
+}
+
+.button_minus {
+    font-size: 30px;
+    padding: 3px 49px;
+    margin-bottom: 5px;
+}
+
+.button_asterisk {
+    font-size: 30px;
+    padding: 3px 48px;
+    margin-bottom: 5px;
+} 
+
+.button_00 {
+    font-size: 30px;
+    padding: 3px 36.5px; 
+}
+
+.button_dot {
+    font-size: 30px;
+    padding: 3px 49px; 
+}
+
+.button_slash {
+    font-size: 30px;
+    padding: 3px 50px; 
+}
+
+.button_m {
+    font-size: 30px;
+    padding: 3px 96.8px;
+}
